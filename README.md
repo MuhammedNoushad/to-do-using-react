@@ -7,7 +7,7 @@ This is a simple Todo application built using React. It allows users to add, rem
 - Add new tasks to the list.
 - Mark tasks as completed.
 - Remove tasks from the list.
-- Filter tasks by status (completed / active).
+- Edit task.
 
 ## Technologies Used
 
